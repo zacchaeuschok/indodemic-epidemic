@@ -32,7 +32,8 @@ The full 13-compartment system comprises the sentiment subsystem and the standar
 
 <p align="center"> <img width="812" alt="Screenshot 2021-12-02 at 9 54 40 PM" src="https://user-images.githubusercontent.com/55981443/144435489-46a2f32b-33fc-46fa-bf21-4a31e1d3c916.png"> </p>
 
+## References
 
-
+[Modelling Anti-vaccine Setiment as a Cultural Pathogen](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/modelling-antivaccine-sentiment-as-a-cultural-pathogen/70DEF4B1DB6ED46CBD1E3B18481C24A2)
 
 
